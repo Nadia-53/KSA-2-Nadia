@@ -1,10 +1,40 @@
-name:Nadia Akter Eshita<br>
-
-
-Id:-223902053<br>
-
-
-Section:-D2<br>
-
-
-CGPA-3.77
+{
+    "users": [
+        {
+            "id": "1",
+            "first_name": "Nadia",
+            "last_name": "Akter Eshita",
+            "email": "nadia@gmail.com"
+        },
+        {
+            "id": "2",
+            "first_name": "Ashish",
+            "last_name": "Regmi",
+            "email": "ashish@gmail.com"
+        },
+        {
+            "id": "3",
+            "first_name": "Anshu",
+            "last_name": "abc",
+            "email": "anshu@gmail.com"
+        },
+        {
+            "id": "4",
+            "first_name": "Shreya",
+            "last_name": "def",
+            "email": "shreya@gmail.com"
+        },
+        {
+            "id": "5",
+            "first_name": "John",
+            "last_name": "aaa",
+            "email": "John@yahoo.com"
+        },
+        {
+            "first_name": "Sadia",
+            "last_name": "Akter",
+            "email": "sadia@gmail.com",
+            "id": "6"
+        }
+    ]
+}
